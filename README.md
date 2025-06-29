@@ -2,6 +2,6 @@
 
 FairMoE.py: code of model for Fair-MoE.
 
-FairMoEFinetune.py: code of finetuning Fair-MoE.
+FairMoEfinetune.py: code of finetuning Fair-MoE.
 
 
